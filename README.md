@@ -51,10 +51,4 @@ Regresión logística sobre Breast Cancer Wisconsin y modelado ARIMA/SARIMA de C
 
 ---
 
-## 📊 Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablosaezmath&show_icons=true&theme=default&hide_border=true&count_private=false)
-
----
-
 *Abierto a oportunidades en Ciencia de Datos, Análisis de Datos y Machine Learning — presencial, híbrido o remoto.*
